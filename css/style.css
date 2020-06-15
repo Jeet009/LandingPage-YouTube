@@ -1,0 +1,45 @@
+#overlay {
+    background-image: url(../asset/bg.png);
+    background-attachment: fixed;
+}
+
+.brand-logo {
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    color: #e7fdc4;    
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header-para {
+    font-weight: lighter;
+    color: aliceblue;
+}
+
+.responsive{
+    max-width: 100%;
+    height: auto;
+ }
+
+.about{
+    font-weight: lighter;
+    font-family: -apple-system;
+ }
+.about-text{
+     margin-top: 50px;
+}
+
+.tabs .indicator {
+    background-color: #006064;
+}
+  
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: transparent;
+}
+
+.modal {
+    background-color: #e7fdc4;
+}
